@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is [Christine Adhiambo Onyango], and I am currently learning how to use Git and GitHub. I enjoy working with technology and improving my skills. I am excited to start my journey in software development and version control.
+
+I look forward to learning more and using GitHub for future projects and collaboration.
