@@ -1,0 +1,1 @@
+In this course, I have learned how to use Git and GitHub for version control. I now understand repositories, commits, branches, and pull requests. I look forward to using GitHub for future projects.
